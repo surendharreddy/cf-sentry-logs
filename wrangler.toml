@@ -1,6 +1,6 @@
 name = "cf-sentry-logs"
-type = "javascript"
-
+type = "webpack"
+webpack_config = "webpack.config.js"
 account_id = ""
 workers_dev = true
 route = ""
