@@ -1,0 +1,14 @@
+{
+  "name": "cf-sentry-logs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CF Worker sentry logs",
+  "author": "surendharreddy <surendharreddy.me@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
